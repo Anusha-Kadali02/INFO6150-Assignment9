@@ -15,7 +15,7 @@ Job Nest is a comprehensive job portal designed to streamline the job search pro
 ## Project Structure
 
 - **controllers:** Contains controllers responsible for handling user requests.
-- **models:** Defines the data structure of the application.
+- **models:**  Provides an interface for the database 
 - **routes:** Defines the routes of the application.
 - **services:** Contains services responsible for specific business logic.
 - **server.js:** Entry point for the Node.js server.
