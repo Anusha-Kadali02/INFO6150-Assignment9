@@ -23,10 +23,11 @@ Job Nest is a comprehensive job portal designed to streamline the job search pro
 ## Instructions
 
 1. Clone the repository: git clone https://github.com/Anusha-Kadali02/INFO6150-Assignment9.git
-2. Install dependencies: npm install
-3. Create a .env file: Add relevant credentials for your mongo database username and password and also give secret key which will be used for creation of jwt token
-4. npm start
-5. The app is now running at http://localhost:8000
+2. cd ./backend
+3. Install dependencies: npm install
+4. Create a .env file: Add relevant credentials for your mongo database username and password and also give secret key which will be used for creation of jwt token
+5. npm start
+6. The app is now running at http://localhost:8000
 
 ## Tech Stack
 <img src="https://miro.medium.com/v2/resize:fit:600/1*YekyuOZGMw-kGOEqU4YPZg.jpeg"
@@ -90,7 +91,8 @@ Job Nest is a comprehensive job portal designed to streamline the job search pro
 ## Instructions
 
 1. Clone the repository: git clone https://github.com/Anusha-Kadali02/INFO6150-Assignment9.git
-2. Install dependencies: npm install
+2. cd ./frontend
+3. Install dependencies: npm install
 4. npm start
 5. The app is now running at http://localhost:3000
 
