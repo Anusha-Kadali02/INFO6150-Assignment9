@@ -1,0 +1,16 @@
+.cardContact{
+    flex: 0 1 50%;
+    margin-top: 25px;
+    border-radius: 0%;
+    margin-bottom: 20px;
+}
+
+.cardss{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardImg3{
+    height: 400px;
+}

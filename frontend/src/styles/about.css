@@ -1,0 +1,53 @@
+.desc{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.heading span
+{
+    border-bottom: 2px solid gray;
+}
+
+.heading{
+    font-size: 20px;
+    text-align: center;
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.card{
+    flex: 0 1 24%;
+    margin-top: 25px;
+    border-radius: 0%;
+}
+
+.cardImg2{
+    height: 250px;
+    width: 100%;
+    border-radius: 0%;
+}
+
+.cardTitle{
+    text-align: center;
+    color: #712cf9;
+    font-size: 16px;
+}
+
+.cardBody{
+    font-size: 14px;
+}
+
+.card:hover {
+    border: 2px solid #712cf9;
+    cursor: pointer;
+  }
